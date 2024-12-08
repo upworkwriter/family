@@ -9,7 +9,7 @@
 <meta name="robots" content="index, follow">
 <meta name="googlebot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
 <meta name="bingbot" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
-<link rel="canonical" href="https://familyworld.netlify.app/privacy-policy.html">
+<link rel="canonical" href="https://familyworldnews.netlify.app/privacy-policy.html">
 <link rel="shortcut icon"  href="img/logo18.png"/>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Kumbh+Sans:100,200,300,400,500,600,700,800,900&amp;display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
@@ -18,132 +18,132 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css">
-.y429c4b1032671c539e9309e473226740:hover{
-box-shadow: 0 50.4px 50.4px -25px rgb(0 0 0 / 30%);
+.u747b20643fefa605d6dd1f3ae078e4e4:hover{
+box-shadow: 0 49.7px 49.7px -25px rgb(0 0 0 / 30%);
 transform: rotate(-2deg) scale(1.03);
 }
-.btn-md{
-padding: 14.9px 30.2px;
-border-radius: 0;
-}
-.wfab966739ed6c35672c6b55f6b1bc161 a,.ucaaff3c30375340718f2d16a37222fb1 a{
-color:#000000!important;
-text-decoration: underline !important;
+a{
+text-decoration: none!important;
 }
 footer{
-background:#060606;
+background:#080808;
 color:#ffffff;
-}
-footer a{
-color:#ffffff;
-text-decoration: underline;
-}
-.y6c69e83cbe555b016521c4cfff7a032e{
-background-color:#ffc107!important;
-border-color:#ffc107!important;
-color:#000000!important;
-}
-.wfab966739ed6c35672c6b55f6b1bc161 p,.wfab966739ed6c35672c6b55f6b1bc161 a,.wfab966739ed6c35672c6b55f6b1bc161 span,.wfab966739ed6c35672c6b55f6b1bc161 label{
-font-size:16px!important;
-}
-a:hover{
-color:;background:!important;
-}
-html{
-scroll-behavior: smooth;
 }
 footer *{
 font-size:16px !important;
 }
-.ucaaff3c30375340718f2d16a37222fb1 a{
-font-size:16px;
-}
-.nav-link{
-color: #d8ac0e;
-
-}
-*{
-font-family: 'Kumbh Sans', sans-serif;
-}
-a{
-text-decoration: none!important;
+.u12b526871a817f9155a100d7edecaf53 p,.u12b526871a817f9155a100d7edecaf53 a,.u12b526871a817f9155a100d7edecaf53 span,.u12b526871a817f9155a100d7edecaf53 label{
+font-size:16px!important;
 }
 ul{
 list-style: circle;
 }
 .nav-item{
 padding-left:8.2px;
-padding-right:8.2px;
-padding-top:4.8px;
-padding-bottom:5.3px;
+padding-right:7.7px;
+padding-top:5px;
+padding-bottom:4.8px;
 }
 .navbar a{
-font-size: 17.8px!important;
+font-size: 18.1px!important;
 font-weight: bold;
 }
-.ucaaff3c30375340718f2d16a37222fb1 p,.ucaaff3c30375340718f2d16a37222fb1 span,.ucaaff3c30375340718f2d16a37222fb1 label{
+.x2b228803b740cdc24bf15bc3dd1bef68 p,.x2b228803b740cdc24bf15bc3dd1bef68 span,.x2b228803b740cdc24bf15bc3dd1bef68 label{
 font-size:16px!important;
+}
+.x2b228803b740cdc24bf15bc3dd1bef68 a{
+font-size:16px;
+}
+*{
+font-family: 'Kumbh Sans', sans-serif;
+}
+html{
+scroll-behavior: smooth;
+}
+.nav-link{
+color: #d8ac0e;
+
+}
+.btn-md{
+padding: 15.3px 29.7px;
+border-radius: 0;
+}
+.u12b526871a817f9155a100d7edecaf53 a,.x2b228803b740cdc24bf15bc3dd1bef68 a{
+color:#0b0b0b!important;
+text-decoration: underline !important;
+}
+.xa41087cbaf9c144864d9ce72d4291167{
+background-color:#ffc107!important;
+border-color:#ffc107!important;
+color:#000000!important;
+}
+a:hover{
+color:;background:!important;
+}
+footer a{
+color:#ffffff;
+text-decoration: underline;
 }
 </style>
 </head>
 <body>
-<nav class="navbar-expand-lg navbar">
-<a class="navbar-brand" href="https://familyworld.netlify.app/index.html"  ><img alt="img/logo18.png" src="img/logo18.png"  width="150px" ></a>
+<nav class="navbar navbar-expand-lg">
+<a class="navbar-brand" href="https://familyworldnews.netlify.app/index.html"  ><img alt="img/logo18.png" src="img/logo18.png"  width="150px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span></button><div class="navbar-collapse collapse" id="navbarSupportedContent">
-<ul class="navbar-nav d-flex ml-auto align-items-center"><li class="nav-item"><a class="nav-link u525f3c5c2fdc29e2e622056c6fd75c72" href="https://familyworld.netlify.app/news.html"  >News</a></li>
-  
-<li class="nav-item dropdown ">
-<a class="u525f3c5c2fdc29e2e622056c6fd75c72 nav-link dropdown-toggle" href="https://familyworld.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Wholesome Wanders Elder Care E-diary</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://familyworld.netlify.app/index.html"  >Wholesome Wanders Elder Care E-diary</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/nursing-homes.html"  >Nursing Homes</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/inhome-care-services.html"  >Inhome Care Services</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/assisted-living-facilities.html"  >Assisted Living Facilities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/memory-care.html"  >Memory Care</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/palliative-care.html"  >Palliative Care</a>
-  
-<li class="dropdown  nav-item">
-<a class="nav-link u525f3c5c2fdc29e2e622056c6fd75c72 dropdown-toggle" href="https://familyworld.netlify.app/nursing-homes-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Nursing Homes</a>
-<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://familyworld.netlify.app/nursing-homes-1.html"  >Nursing Homes</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/types-of-nursing-homes.html"  >Types of Nursing Homes</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/cost-of-nursing-home-care.html"  >Cost of Nursing Home Care</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/quality-of-care-in-nursing-homes.html"  >Quality of Care in Nursing Homes</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/regulations-for-nursing-homes.html"  >Regulations for Nursing Homes</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/choosing-the-right-nursing-home.html"  >Choosing the Right Nursing Home</a>
-  
-<li class="dropdown nav-item ">
-<a class="nav-link u525f3c5c2fdc29e2e622056c6fd75c72 dropdown-toggle" href="https://familyworld.netlify.app/in-home-care-services.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">In-home Care Services</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://familyworld.netlify.app/in-home-care-services.html"  >In-home Care Services</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/types-of-inhome-care-services.html"  >Types of Inhome Care Services</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/hiring-inhome-caregivers.html"  >Hiring Inhome Caregivers</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/cost-of-inhome-care-services.html"  >Cost of Inhome Care Services</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/benefits-of-inhome-care-vs-facilitybased-care.html"  >Benefits of Inhome Care vs Facilitybased care</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/managing-medications-and-medical-needs-at-home.html"  >Managing Medications and Medical Needs at Home</a>
-  
-<li class="nav-item dropdown ">
-<a class="u525f3c5c2fdc29e2e622056c6fd75c72 nav-link dropdown-toggle" href="https://familyworld.netlify.app/assisted-living-facilities-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Assisted Living Facilities</a>
-<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://familyworld.netlify.app/assisted-living-facilities-1.html"  >Assisted Living Facilities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/amenities-offered-in-assisted-living-facilities.html"  >Amenities Offered in Assisted Living Facilities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/costs-associated-with-assisted-living-facilities.html"  >Costs Associated with Assisted Living Facilities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/quality-of-life-in-assisted-living-communities.html"  >Quality of Life in Assisted Living Communities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/regulations-for-assisted-living-facilities.html"  >Regulations for Assisted Living Facilities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/transitioning-to-an-assisted-living-facility.html"  >Transitioning to an Assisted Living Facility</a>
+<ul class="navbar-nav d-flex align-items-center ml-auto"><li class="nav-item"><a class="d85549a45a30e9d33780f5a103bb0020a nav-link" href="https://familyworldnews.netlify.app/news.html"  >News</a></li>
   
 <li class=" dropdown nav-item">
-<a class="dropdown-toggle nav-link u525f3c5c2fdc29e2e622056c6fd75c72" href="https://familyworld.netlify.app/featured.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Featured</a>
+<a class="nav-link dropdown-toggle d85549a45a30e9d33780f5a103bb0020a" href="https://familyworldnews.netlify.app/index.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Wholesome Wanders Elder Care E-diary</a>
 <div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
-<a class="dropdown-item" href="https://familyworld.netlify.app/featured.html"  >Featured</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/memory-care-1.html"  >Memory Care</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/specialized-programs-and-activities-for-dementia-patients.html"  >Specialized Programs and Activities for Dementia Patients</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/costs-associated-with-memory-care-facilities.html"  >Costs Associated with Memory Care Facilities</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/training-and-qualifications-for-memory-care-staff-members.html"  >Training and Qualifications for Memory Care Staff Members</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/managing-challenging-behaviors-in-memory-care-patients.html"  >Managing Challenging Behaviors in Memory care Patients</a>
-<a class="dropdown-item" href="https://familyworld.netlify.app/family-support-and-education-in-memory-care-settings.html"  >Family Support and Education in Memory care Settings</a>
-<li class="nav-item"><a class="nav-link u525f3c5c2fdc29e2e622056c6fd75c72" rel=nofollow href="https://familyworld.netlify.app/about-us.html">About Us</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/index.html"  >Wholesome Wanders Elder Care E-diary</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/nursing-homes.html"  >Nursing Homes</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/inhome-care-services.html"  >Inhome Care Services</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/assisted-living-facilities.html"  >Assisted Living Facilities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/memory-care.html"  >Memory Care</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/palliative-care.html"  >Palliative Care</a>
+  
+<li class=" dropdown nav-item">
+<a class="d85549a45a30e9d33780f5a103bb0020a nav-link dropdown-toggle" href="https://familyworldnews.netlify.app/nursing-homes-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Nursing Homes</a>
+<div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/nursing-homes-1.html"  >Nursing Homes</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/types-of-nursing-homes.html"  >Types of Nursing Homes</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/cost-of-nursing-home-care.html"  >Cost of Nursing Home Care</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/quality-of-care-in-nursing-homes.html"  >Quality of Care in Nursing Homes</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/regulations-for-nursing-homes.html"  >Regulations for Nursing Homes</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/choosing-the-right-nursing-home.html"  >Choosing the Right Nursing Home</a>
+  
+<li class="nav-item  dropdown">
+<a class="d85549a45a30e9d33780f5a103bb0020a dropdown-toggle nav-link" href="https://familyworldnews.netlify.app/in-home-care-services.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">In-home Care Services</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/in-home-care-services.html"  >In-home Care Services</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/types-of-inhome-care-services.html"  >Types of Inhome Care Services</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/hiring-inhome-caregivers.html"  >Hiring Inhome Caregivers</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/cost-of-inhome-care-services.html"  >Cost of Inhome Care Services</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/benefits-of-inhome-care-vs-facilitybased-care.html"  >Benefits of Inhome Care vs Facilitybased care</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/managing-medications-and-medical-needs-at-home.html"  >Managing Medications and Medical Needs at Home</a>
+  
+<li class=" dropdown nav-item">
+<a class="d85549a45a30e9d33780f5a103bb0020a nav-link dropdown-toggle" href="https://familyworldnews.netlify.app/assisted-living-facilities-1.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Assisted Living Facilities</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/assisted-living-facilities-1.html"  >Assisted Living Facilities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/amenities-offered-in-assisted-living-facilities.html"  >Amenities Offered in Assisted Living Facilities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/costs-associated-with-assisted-living-facilities.html"  >Costs Associated with Assisted Living Facilities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/quality-of-life-in-assisted-living-communities.html"  >Quality of Life in Assisted Living Communities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/regulations-for-assisted-living-facilities.html"  >Regulations for Assisted Living Facilities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/transitioning-to-an-assisted-living-facility.html"  >Transitioning to an Assisted Living Facility</a>
+  
+<li class="dropdown nav-item ">
+<a class="d85549a45a30e9d33780f5a103bb0020a nav-link dropdown-toggle" href="https://familyworldnews.netlify.app/featured.html" id="navbarDropdown" role="button" data-toggle="dropdown" aria-expanded="false">Featured</a>
+<div class="dropdown-menu-right dropdown-menu" aria-labelledby="navbarDropdown">
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/featured.html"  >Featured</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/memory-care-1.html"  >Memory Care</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/specialized-programs-and-activities-for-dementia-patients.html"  >Specialized Programs and Activities for Dementia Patients</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/costs-associated-with-memory-care-facilities.html"  >Costs Associated with Memory Care Facilities</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/training-and-qualifications-for-memory-care-staff-members.html"  >Training and Qualifications for Memory Care Staff Members</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/managing-challenging-behaviors-in-memory-care-patients.html"  >Managing Challenging Behaviors in Memory care Patients</a>
+<a class="dropdown-item" href="https://familyworldnews.netlify.app/family-support-and-education-in-memory-care-settings.html"  >Family Support and Education in Memory care Settings</a>
+<li class="nav-item"><a class="nav-link d85549a45a30e9d33780f5a103bb0020a" rel=nofollow href="https://familyworldnews.netlify.app/about-us.html">About Us</a>
 </li></ul>
 </div>
 </nav>
@@ -201,19 +201,19 @@ font-size:16px!important;
 <p>
 This website is owned and published by:
 Wholesome Wanders</br>
-637-240-1434</br>
-6004  Holly Drive</br>
-Mesa, AZ, 85201</br>
+170-771-6577</br>
+8325  Orchard Street</br>
+San Jose, CA, 95124</br>
 United States</br>
 </br>
-SamuelCarterBox3@gmail.com</br>
+BenjaminRodriguezLink7@outlook.com</br>
 </p>
 </section>
 <footer>
 <div class="py-4 pt-5 container" >
-<div class="row"><div class="col-lg-3"><p><a class="u525f3c5c2fdc29e2e622056c6fd75c72" href="https://familyworld.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
-<p><a class="u525f3c5c2fdc29e2e622056c6fd75c72" href="https://familyworld.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
-<p><a class="u525f3c5c2fdc29e2e622056c6fd75c72" href="https://familyworld.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
+<div class="row"><div class="col-lg-3"><p><a class="d85549a45a30e9d33780f5a103bb0020a" href="https://familyworldnews.netlify.app/sitemap.html" rel="nofollow">Sitemap</a></p>
+<p><a class="d85549a45a30e9d33780f5a103bb0020a" href="https://familyworldnews.netlify.app/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+<p><a class="d85549a45a30e9d33780f5a103bb0020a" href="https://familyworldnews.netlify.app/about-us.html" rel="nofollow">About Us</a></p>
 </p>
 </div></div>
 </div>
